@@ -6,13 +6,13 @@ class App2 extends Component {
         return (
             <SafeAreaView style={{
                 backgroundColor:"pink",
-                flex:1,
+              //  flex:1,
               //  flexDirection:"row",
                 //  justifyContent:"center",
                 // alignItems:"stretch"
             }}>
 
-<Text style={{color:"red",textAlign:"right",fontSize:33}}>
+<Text style={{color:"red",textAlign:"center",fontSize:33,backgroundColor:"green",marginTop:100,paddingTop:230}}>
     hello word
 </Text>
 
