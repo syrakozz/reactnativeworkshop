@@ -13,7 +13,7 @@ class HelloWorldApp extends Component {
     }}>
 
         <View style={{
-            backgroundColor:"red",
+            backgroundColor:"black",
             height:50,
             width:50
         }}>
