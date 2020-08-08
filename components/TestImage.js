@@ -24,7 +24,7 @@ class TestImage extends Component {
                        style={{width:200,height:50,resizeMode: 'cover'}}
                 />
 
-                <Image source={require("./image/logo.png")}
+                <Image source={require("../image/logo.png")}
                        style={{width:200,height:50,resizeMode: 'cover'}}
                 />
             </SafeAreaView>

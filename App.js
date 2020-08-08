@@ -1,5 +1,6 @@
 import React,{Component} from 'react';
-import {View,SafeAreaView} from 'react-native'
+import {View, SafeAreaView, Text, Image} from 'react-native'
+import InnerHeader from "./InnerHeader";
 class HelloWorldApp extends Component {
 
   render(){
@@ -12,14 +13,9 @@ class HelloWorldApp extends Component {
         alignItems:"stretch"
     }}>
 
-        <View style={{
-            backgroundColor:"red",
-            height:50,
-            width:50
-        }}>
 
-        </View>
 
+        <InnerHeader />
         <View style={{
             backgroundColor:"green",
             height:50,

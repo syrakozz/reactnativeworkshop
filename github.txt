@@ -1,3 +1,7 @@
+1- go to github
+2- create repeso.
+3- run command to import
+
 git init
 git add .
 git commit -m "first change"
