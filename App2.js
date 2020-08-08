@@ -12,8 +12,8 @@ class App2 extends Component {
                 // alignItems:"stretch"
             }}>
 
-<Text style={{color:"red",textAlign:"center",fontSize:33,backgroundColor:"green",marginTop:100,paddingTop:230}}>
-    hello word
+<Text style={{color:"red",textAlign:"right",fontSize:33,backgroundColor:"green",marginTop:100,paddingTop:230}}>
+    hi 123 fwf
 </Text>
 
             </SafeAreaView>

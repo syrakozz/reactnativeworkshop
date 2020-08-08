@@ -7,13 +7,13 @@ class HelloWorldApp extends Component {
     <SafeAreaView style={{
         backgroundColor:"pink",
         flex:1,
-        flexDirection:"row",
-      //  justifyContent:"center",
-       // alignItems:"stretch"
+       // flexDirection:"row",
+       // justifyContent:"center",
+        alignItems:"stretch"
     }}>
 
         <View style={{
-            backgroundColor:"black",
+            backgroundColor:"red",
             height:50,
             width:50
         }}>
