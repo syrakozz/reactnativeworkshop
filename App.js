@@ -14,6 +14,7 @@ class HelloWorldApp extends Component {
     }}>
 
 
+        <Text style={{textAlign:"center",fontSize:20}}>hi </Text>
 
         <InnerHeader />
         <View style={{
@@ -30,6 +31,8 @@ class HelloWorldApp extends Component {
             width:50
             //width:50
         }}>
+
+
 
         </View>
 
