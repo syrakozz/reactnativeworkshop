@@ -64,9 +64,7 @@ data:[],
 
                 <FlatList
                     data={this.state.data}
-
                     renderItem={({item})=>this.renderItemView(item)}
-
                 />
 
 

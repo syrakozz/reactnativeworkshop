@@ -1,3 +1,26 @@
 https://desktop.github.com/
 https://reactnative.dev/docs/environment-setup
 https://soft98.ir/internet/web-design/3564-jetbrains-webstorm.html
+
+
+
+how to publish to android
+- android account
+- any machine
+- device
+- android membership
+
+how to publish to apple store ,
+- apple machine
+- apple phone
+- apple memberchip
+
+
+links :
+diawi.com
+https://www.installonair.com/
+testflight
+
+https://www.instamobile.io/android-development/generate-react-native-release-build-android/
+
+https://appcenter.ms/  for code push
